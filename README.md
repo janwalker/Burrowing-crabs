@@ -3,7 +3,7 @@ This is the collective data for Dr. Janet Walker's work on the effect of burrowi
 
 The repository includes data used in the analyses for - 
 
-    Walker, J.B., S.A. Rinehart, W.K. White, E.D. Grosholz, and J.D. Long. 2020. Local and regional variation in effects of burrowing crabs on plant community      structure. Ecology 102(2):e03244. DOI: 10.1002/ecy.3244
+    Walker, J.B., S.A. Rinehart, W.K. White, E.D. Grosholz, and J.D. Long. 2020. Local and regional variation in effects of burrowing crabs on plant community structure. Ecology 102(2):e03244. DOI: 10.1002/ecy.3244
   
     Walker, J.B., E.D. Grosholz, and J.D. Long. 2021. Predicting burrowing crab impacts on salt marsh plants under climate change. In press, Ecosphere.
   
