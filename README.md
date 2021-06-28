@@ -29,7 +29,13 @@ All data files note the Year, Month, Day, Marsh, Zone, Cage, and Treatment -
 X files are the data collected in the manipulation of burrowing crabs from 2016 to 2019 in the above publications
 
 1) Cage_Burrows_Data_NS - Burrows: Total number of burrows counted in each plots; Pachy, Hemi, Fiddler, Green: The number of crabs sighted for each species in each plot; Pitfall: Total number of crabs caught in the pitfall traps; Pitfall-F, Pitfall-P, Pitfall-G, Pitfall-H: The number of crabs caught in pitfall traps for each species
-2) 
+2) Cage_CrabDiameter_all_NS - diameter: The burrow diameter measured in cm
+3) CageData_all_NS - Stems(all): total cordgrass stem number; Stems(live): live cordgrass stems; Stems(dead): dead cordgrass stems; Flowers: total number of flowering cordgrass stems; Pickle_CH_Avg: Average pickleweed canopy height in cm; Spartina_L: live cordgrass percent cover; Spartina_D: dead cordgrass percent cover; Mud: percent cover of mud; Sarcocornia: pernennial pickleweed (Sarcocornia pacifica) percent cover; Salicornia: annual pickleweed (Salicornia bigelovii) percent cover; Batis: Batis maritima percent cover; Jaumea: Jaumea carnosa percent cover; Triglochin: Triglochin maritima percent cover; Unknown: unknown plant percent cover; Wrack: percent cover of wrack (kelp, eelgrass, etc.); Not_visilble: percent cover of areas that weren't visible due to water
+4) Cage_CordgrassHeight_all_NS - CordgrassHeight: The height of Spartina foliosa (cordgrass) in cm
+5) Cage_AbovegroundBiomass_all_NS - Plant: Ba (Batis), CD (Cordgrass Dead), CL (Cordgrass live), Pi (pickleweed - Sarcocornia pacifica), other (all other plants); Mass.Final - the mass in g of each dried plant
+6) Cage_BelowgroundBiomass_all_NS - Plant: Cordgrass, Pickleweed (Sarcoconia pacifica), Other; Final.Mass - the mass in g of each dried plant
+7) Cage_Porewater_NS - The porewater measurments for Nitrate (um/L), Ammonium (um/L), Salinity (ppt), UV (Dissolved organic carbon recording aborbance at A260 nm)
+8) Cage_CtoN_NS - Plant: Cordgrass, Pickleweed (Sarcocornia pacifica); Amount.mg
   
  
 
