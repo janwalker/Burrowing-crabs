@@ -7,7 +7,7 @@ The repository includes data used in the analyses for -
   
     Walker, J.B., E.D. Grosholz, and J.D. Long. 2021. Predicting burrowing crab impacts on salt marsh plants. In press, Ecosphere.
   
-    Walker, J.B., University of California, Davis. ProQuest Dissertations Publishing, 2020. 28092194.https://www.proquest.com/openview/acafe91f39d311411fad803988613859/1?pq-origsite=gscholar&cbl=44156
+    Walker, J.B., University of California, Davis. ProQuest Dissertations Publishing, 2020. 28092194. https://www.proquest.com/openview/acafe91f39d311411fad803988613859/1?pq-origsite=gscholar&cbl=44156
 
 The first group of data files include data collected from 2016 to 2019 at six sites - 
   1) KF1 - Kendall-Frost 1
